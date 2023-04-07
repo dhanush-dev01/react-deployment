@@ -1,0 +1,8 @@
+{
+    "port" : 7080,
+    "dbuser" : "admin",
+    "password" : "6DRyFCu4xG4PABVo",
+    "dbname" : "valtechdb",
+    "host" : "localhost"
+
+}
